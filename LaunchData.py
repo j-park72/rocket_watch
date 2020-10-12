@@ -4,7 +4,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from motionless import DecoratedMap, LatLonMarker
 
-GMAPSKEY = 'AIzaSyDZR8co57TwueSwMQPx-5pO_fvImjMnVFc'
+GMAPSKEY = 'YOUR_KEY_HERE'
 def getContents(url):
     """
     Gets html contents of url
